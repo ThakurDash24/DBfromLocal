@@ -1,5 +1,3 @@
-Here’s a **full GitHub README template** for your Flipkart Mini Project 👇
-
 ---
 
 # 🛒 Flipkart Mini Project (Python + MySQL)
@@ -133,9 +131,3 @@ Hello, John !
 Aspiring Data Scientist & Python Developer
 
 ---
-
-Do you want me to:
-✅ Add **a badge-style heading (like Python version, license)** to make it more professional?
-✅ Or keep it clean and minimal for now?
-
-Would you like me to **make a ready-to-paste README with your GitHub username pre-filled**?
